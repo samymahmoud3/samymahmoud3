@@ -53,9 +53,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
+                 
+### Badges
 
-###
+<b>My GitHub Stats</b>
 
-<h3 align="left">🔥   My Stats :</h3>
+<a href="http://www.github.com/samymahmoud3"><img src="https://github-readme-stats.vercel.app/api?username=samymahmoud3&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="samymahmoud3's GitHub stats" /></a>
+
+<a href="http://www.github.com/samymahmoud3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=samymahmoud3&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ###
