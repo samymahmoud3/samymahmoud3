@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">👋 Hi there! I’m a passionate Frontend Web Developer with a knack for creating interactive and aesthetically pleasing websites. <br><br>I love using my skills to turn ideas into beautifully crafted and user-friendly web applications. <br><br>I’m always eager to learn new technologies and improve my skills. Feel free to check out my repositories and don’t hesitate to reach out if you want to collaborate on a project or discuss web development! 😊<br><br>- 🔭 I’m working as Front-end Web Developer<br>- 📚 I'm currently learning TypeScript</p>
+<p align="left">👋 Hi there! I’m a passionate Frontend Web Developer with a knack for creating interactive and aesthetically pleasing websites. <br><br>I love using my skills to turn ideas into beautifully crafted and user-friendly web applications. <br><br>I’m always eager to learn new technologies and improve my skills. Feel free to check out my repositories and don’t hesitate to reach out if you want to collaborate on a project or discuss web development! 😊<br><br>- 🔭 I’m working as Front-end Web Developer<br>- 📚 I'm currently learning Next.js</p>
 
 ###
 
@@ -46,13 +46,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
-                 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/samymahmoud3"><img src="https://github-readme-stats.vercel.app/api?username=samymahmoud3&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="samymahmoud3's GitHub stats" /></a>
-
-<a href="http://www.github.com/samymahmoud3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=samymahmoud3&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-###
